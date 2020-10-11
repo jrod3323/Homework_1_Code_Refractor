@@ -19,7 +19,7 @@ Brand Marketing: Social media continues to have a sizable influence on buying ha
 
 ## Screenshot
 
-![Front Page Screenshot](./front-page-screenshot.png)
+![Front Page Screenshot](./assets/images/front-page-screenshot.png)
 
 ## Link
 
