@@ -1,4 +1,3 @@
-# Homework_1_Code_Refractor
 # Horiseon Social Solution Services, Inc.
 
 ## Table Of Contents
