@@ -1,13 +1,20 @@
+/* CSS for main part of document */
+/*  */
+
+/* All Elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* For body */
 body {
     background-color: #d9dcd6;
 }
 
+/* CSS for Header section */
+/*  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
@@ -15,6 +22,8 @@ header {
     color: #ffffff;
 }
 
+
+/* Head H1 tags */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +33,7 @@ header h1 span {
     color: #d9dcd6;
 }
 
+/* For nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -59,6 +69,7 @@ figure {
     background-position: center;
 }
 
+/* positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +80,15 @@ figure {
     margin-left: 25px;
 }
 
+/* css for main */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/* css of aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +116,7 @@ aside img {
     max-width: 150px;
 }
 
+/* css for all article items */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +134,8 @@ article section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* for footer section */
 
 footer {
     padding: 30px;
